@@ -1,2 +1,2 @@
 # HactoberFest2021
-This repo is made for beginners to get familiar with git and contribute under hacktoberFest2021.
+This Repo is NO MORE accepting pull request for Hactoberfest2021.
